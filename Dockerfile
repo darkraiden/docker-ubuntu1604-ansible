@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Davide Di Mauro
+LABEL Author="Davide Di Mauro"
 
 ENV RUBY_VERSION 2.2
 ENV RUBYGEMS_VERSION 2.6.11
